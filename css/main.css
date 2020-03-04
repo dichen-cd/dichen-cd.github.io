@@ -343,9 +343,10 @@ ul {
     margin: 0em .9em 0em;
 }
 
-.blog_cv {
+.scholar_cv {
     font-family: "Ubuntu Mono";
-    font-size: 17px;
+    font-size: 15px;
+    vertical-align: middle;
     /* margin: 0em .9em 0em; */
 }
 
