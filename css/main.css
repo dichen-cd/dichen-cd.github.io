@@ -2,17 +2,45 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono);
 
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #1e1f23;
+    --secondary-color: #bc775a;
+    --text-dark: #efefef;
+    --text: #c4c5c9;
+    --text-light: #6c6d71;
+    --text-lighter: #8e8f93;
+    --h1-color: #E4E2B4;
+  }
+  img {
+    opacity: .8;
+  }
+}
+
+@media screen and (prefers-color-scheme: light) {
+  :root {
+    --secondary-color: #a00;
+    --h1-color: #333;
+  }
+
+}
+
+
 body {
+  background-color: var(--background-color);
   font-family: "Ubuntu", sans-serif;
   font-weight: 300;
-  color: #333;
+  /*color: #333;*/
+  color: var(--text);
   line-height: 1.5;
   font-size: 16px;
 }
 
 a,
 a:hover {
-  color: #a00;
+  /*color: #a00;*/
+  color: var(--secondary-color);
   text-decoration: none;
 }
 
@@ -67,7 +95,8 @@ blockquote {
   font-size: 1.4rem;
   font-family: Georgia, bitstream charter, serif;
   border-left: 3px solid;
-  border-color: #a00;
+  /*border-color: #a00;*/
+  border-color: var(--secondary-color)
   padding-left: 20px;
 }
 
@@ -81,7 +110,8 @@ span {
 
 a,
 a:hover {
-  color: #a00;
+  /*color: #a00;*/
+  color: var(--secondary-color);
   text-decoration: none;
 }
 
@@ -97,7 +127,7 @@ h5,
 h6 {
   font-family: Ubuntu, raleway, sans-serif;
   line-height: 1.2;
-  color: #330;
+  color: var(--text);
   font-weight: 100;
   margin-bottom: 15px;
   margin-top: 20px;
@@ -105,6 +135,7 @@ h6 {
 
 h1 {
   font-size: 2.75rem;
+  color: var(--h1-color)
 }
 
 h2 {
@@ -447,3 +478,4 @@ ul {
     font-size: 14px;
   }
 }
+
