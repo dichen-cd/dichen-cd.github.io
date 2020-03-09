@@ -376,8 +376,8 @@ ul {
 
 .scholar_cv {
     font-family: "Ubuntu Mono";
-    font-size: 15px;
-    vertical-align: middle;
+    font-size: 18px;
+    /*vertical-align: middle;*/
     /* margin: 0em .9em 0em; */
 }
 
