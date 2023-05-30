@@ -2,10 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://di-chen.me/tags/ai/</loc>
+    <lastmod>2021-01-11T16:12:29-07:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://di-chen.me/blog/</loc>
+    <lastmod>2021-01-11T16:12:29-07:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://di-chen.me/tags/deep_learning/</loc>
+    <lastmod>2021-01-11T16:12:29-07:00</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/</loc>
+    <lastmod>2021-01-11T16:12:29-07:00</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/tags/neural_networks/</loc>
+    <lastmod>2021-01-11T16:12:29-07:00</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/blog/blog4/</loc>
+    <lastmod>2021-01-11T16:12:29-07:00</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/tags/</loc>
+    <lastmod>2021-01-11T16:12:29-07:00</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/news/</loc>
+    <lastmod>2020-11-20T17:51:47+03:30</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/blog/blog3/</loc>
+    <lastmod>2020-05-12T16:11:56-07:00</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/tags/ml/</loc>
+    <lastmod>2020-05-12T16:11:56-07:00</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/tags/startups/</loc>
+    <lastmod>2020-05-12T16:11:56-07:00</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/blog/blog2/</loc>
+    <lastmod>2019-06-07T16:04:19-07:00</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/tags/deep-learning/</loc>
+    <lastmod>2019-06-07T16:04:19-07:00</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/tags/machine-learning/</loc>
+    <lastmod>2019-06-07T16:04:19-07:00</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/tags/economy/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/blog/blog1/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://di-chen.me/categories/</loc>
+  </url><url>
+    <loc>https://di-chen.me/about/</loc>
   </url>
 </urlset>
