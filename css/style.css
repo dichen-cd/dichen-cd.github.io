@@ -323,3 +323,48 @@ h2 code {
 strong {
     color: var(--text);
 }
+
+@media (max-width: 767px) {
+  body {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+  }
+
+  h4 {
+    font-size: 1rem;
+  }
+
+  .container {
+    margin-top: 10px;
+  }
+
+  #profile_picture  {
+    width: 30%;
+    height: auto;
+    margin-top: 1%;
+  }
+
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 14px;
+  }
+
+  #profile_picture  {
+    width: 40%;
+    height: auto;
+    margin-top: 1%;
+  }
+}

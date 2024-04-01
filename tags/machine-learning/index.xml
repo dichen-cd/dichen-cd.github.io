@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>machine-learning on Di Chen</title>
+    <title>machine-learning on Di Chen 陈狄</title>
     <link>https://di-chen.me/tags/machine-learning/</link>
-    <description>Recent content in machine-learning on Di Chen</description>
+    <description>Recent content in machine-learning on Di Chen 陈狄</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jun 2019 16:04:19 -0700</lastBuildDate><atom:link href="https://di-chen.me/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
